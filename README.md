@@ -1,5 +1,5 @@
-start with a 2D box. Place a source point random in the box. Place a set of destinations randomly in the box.
---> Find the shortest number of links connecting all points from the distribution
+start with a 2D box. Place a source point at a random location in the box. Place a set of destinations randomly in the box.
+--> Find the shortest number of links connecting all points from the distribution.
 * place a set of links
 * sum the distance of each links
 
